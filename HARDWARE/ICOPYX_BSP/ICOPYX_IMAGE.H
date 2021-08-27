@@ -30,5 +30,5 @@ extern u16 ICOPYX_FW_SUBVERSION;
 u8 Check_img_lib();
 //检查数据是否存在
 u8 Check_img_data(u8 id);
-u8 ICPX_img_data_ok;
+extern u8 ICPX_img_data_ok;
 #endif
